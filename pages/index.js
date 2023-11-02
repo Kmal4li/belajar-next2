@@ -1,11 +1,10 @@
-import styles from './Components/Navbar'
-
-const inter = Inter({ subsets: ['latin'] })
+import Navbar from './Components/Navbar'
 
 export default function Home() {
   return (
     <>
-      
+      <Navbar />
+      Home
     </>
-  )
+  );
 }

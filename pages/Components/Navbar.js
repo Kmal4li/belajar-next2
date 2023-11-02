@@ -4,16 +4,16 @@ const Navbar = () => {
         <nav>
             <ul>
                 <li>
-                    <link href="\">Home</link>
+                    <Link href="\">Home</Link>
                 </li>
                 <li>
-                    <link href="\about">About</link>
+                    <Link href="\about">About</Link>
                 </li>
                 <li>
-                    <link href="\profile">Profile</link>
+                    <Link href="\profile">Profile</Link>
                 </li>
                 <li>
-                    <link href="\contact">Contact</link>
+                    <Link href="\contact">Contact</Link>
                 </li>
             </ul>
         </nav>
